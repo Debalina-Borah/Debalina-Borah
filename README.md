@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Debalina Borah
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning everything
-- 💞️ I’m looking to collaborate with other Developers
-- 📫 You can reach me on insta @debalina.simi
 
 <!---
 Debalina-Borah/Debalina-Borah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
