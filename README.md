@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Debalina Borah
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning everything
+
 
 <!---
 Debalina-Borah/Debalina-Borah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
